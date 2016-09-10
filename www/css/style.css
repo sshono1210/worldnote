@@ -1,4 +1,8 @@
 /*装飾*/
+.favoriteHeart {
+    font-size: 14px;
+    color: lavenderblush;
+}
 
 /*ベースレイアウト*/
 .item {
